@@ -2,7 +2,9 @@
 
 Este projeto usa uma placa ESP32 rodando **MicroPython** para controlar um servomotor e mostrar mensagens em uma tela OLED de forma simples usando dois botões.
 
-imagem
+<p align="center">
+  <img src=https://github.com/matheusaribeirodev/Piano.ESP32/blob/main/Sem%20t%C3%ADtulo.png
+</p>
 
 ---
 
